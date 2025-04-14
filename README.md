@@ -1,4 +1,4 @@
-# PTA-Capstone
+# Anderson vs Anderson
 My capstone project analyzing the data of the filmography of director Paul Thomas Anderson
 
 This is a project taking in data from The Movie Database (TMDb), the International Movie Database (IMDb), and Rotten Tomatoes to look at the filmography of Paul Thomas Anderson. I'm looking specifically at the various ratings across the data sources, the actors present in each of his films, and the MPAA ratings.
