@@ -1,12 +1,12 @@
 ,Film,TMDb_rating,MPAA_rating,actor1,actor2,actor3,actor4,actor5,Release_Year,IMDb_rating,RT_critic_score,RT_audience_score,box_office
 0,The Life Aquatic With Steve Zissou,7.081,R,Bill Murray,Owen Wilson,Cate Blanchett,Anjelica Huston,Willem Dafoe,2004,7.2,57%,82%,$24.0M
-1,Fantastic Mr. Fox,7.8,PG,George Clooney,Meryl Streep,Jason Schwartzman,Wallace Wolodarsky,Eric Chase Anderson,2009,7.9,93%,85%,$21.0M
+1,Fantastic Mr. Fox,7.806,PG,George Clooney,Meryl Streep,Jason Schwartzman,Wallace Wolodarsky,Eric Chase Anderson,2009,7.9,93%,85%,$21.0M
 2,The Royal Tenenbaums,7.469,R,Gene Hackman,Anjelica Huston,Ben Stiller,Gwyneth Paltrow,Luke Wilson,2001,7.6,81%,89%,$52.4M
 3,Moonrise Kingdom,7.685,PG-13,Jared Gilman,Kara Hayward,Bruce Willis,Edward Norton,Bill Murray,2012,7.8,93%,86%,$45.5M
 4,Bottle Rocket,6.2,R,Owen Wilson,Luke Wilson,Robert Musgrave,Elissa Sommerfield,Isiah Ellis,1996,6.9,86%,79%,$488.6K
 5,The Grand Budapest Hotel,8.042,R,Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody,Willem Dafoe,2014,8.1,92%,86%,$59.1M
-6,Isle of Dogs,7.851,PG-13,Bryan Cranston,Koyu Rankin,Bob Balaban,Edward Norton,Bill Murray,2018,7.8,90%,87%,$31.9M
+6,Isle of Dogs,7.85,PG-13,Bryan Cranston,Koyu Rankin,Bob Balaban,Edward Norton,Bill Murray,2018,7.8,90%,87%,$31.9M
 7,Rushmore,7.398,R,Jason Schwartzman,Bill Murray,Olivia Williams,Seymour Cassel,Brian Cox,1998,7.6,90%,91%,$17.1M
-8,The Darjeeling Limited,7.159,R,Owen Wilson,Adrien Brody,Jason Schwartzman,Amara Karan,Wallace Wolodarsky,2007,7.2,69%,78%,$11.9M
-9,The French Dispatch,7.031,R,Benicio del Toro,Adrien Brody,Tilda Swinton,Léa Seydoux,Frances McDormand,2021,7.1,75%,76%,$16.1M
+8,The Darjeeling Limited,7.16,R,Owen Wilson,Adrien Brody,Jason Schwartzman,Amara Karan,Wallace Wolodarsky,2007,7.2,69%,78%,$11.9M
+9,The French Dispatch,7.0,R,Benicio del Toro,Adrien Brody,Tilda Swinton,Léa Seydoux,Frances McDormand,2021,7.1,75%,76%,$16.1M
 10,Asteroid City,6.466,PG-13,Jason Schwartzman,Scarlett Johansson,Tom Hanks,Jeffrey Wright,Tilda Swinton,2023,6.4,76%,62%,$28.1M
