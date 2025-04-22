@@ -51,6 +51,7 @@ Python: For data collection, cleaning, and analysis.
 APIs: TMDb, IMDb (via Cinemagoer).
 
 Visualization: PowerBI, PowerPoint, (potentially Tableau or Excel).
+https://app.powerbi.com/links/qGnADsb685?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
 
 Web Scraping: If APIs are insufficient (e.g., for Rotten Tomatoes).
 
