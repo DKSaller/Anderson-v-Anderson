@@ -1,6 +1,9 @@
 # Filmography Analysis: Paul Thomas Anderson vs. Wes Anderson
  ## Overview
 This project dives into the filmographies of acclaimed directors Paul Thomas Anderson and Wes Anderson, exploring their movies' performance metrics and casting choices. By analyzing IMDb ratings, Rotten Tomatoes scores, box office earnings, and recurring cast members, this project investigates potential correlations between these factors and the films' success.
+### Dashboard
+https://app.powerbi.com/links/qGnADsb685?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
+
  ## Motivation
 As a fan of both Paul Thomas Anderson’s cinematic depth and Wes Anderson’s whimsical storytelling, I’m curious to compare their careers. Both directors debuted their first feature films in 1996 and continue to shape modern cinema. This project aims to uncover how their films stack up and whether my personal favorites align with critical and commercial success.
  ## Key Questions
@@ -17,8 +20,7 @@ Data acquisition via API calls (e.g., TMDb, IMDb) and potential web scraping.
 Data cleaning to ensure consistency across sources.
 
 Visualization using PowerBI and PowerPoint to showcase findings in an engaging format.
-### Dashboard
-https://app.powerbi.com/links/qGnADsb685?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare
+
 
 Optional deliverables may include a Jupyter Notebook, Excel dashboard, or Tableau visualizations.
  ## Project Timeline
