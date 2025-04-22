@@ -1,31 +1,72 @@
-Executive Summary
-This is a project analyzing the filmographies of two directors, Paul Thomas Anderson and Wes Anderson. I’m looking at each of their movies and analyzing all represented data to see if there exists any correlation between their stats (imdb ratings/rotten tomatoes/box office) and the cast of his films and analyzing how many recurring stars he repeats working with.
+Filmography Analysis: Paul Thomas Anderson vs. Wes Anderson
+ Overview
+This project dives into the filmographies of acclaimed directors Paul Thomas Anderson and Wes Anderson, exploring their movies' performance metrics and casting choices. By analyzing IMDb ratings, Rotten Tomatoes scores, box office earnings, and recurring cast members, this project investigates potential correlations between these factors and the films' success.
+ Motivation
+As a fan of both Paul Thomas Anderson’s cinematic depth and Wes Anderson’s whimsical storytelling, I’m curious to compare their careers. Both directors debuted their first feature films in 1996 and continue to shape modern cinema. This project aims to uncover how their films stack up and whether my personal favorites align with critical and commercial success.
+ Key Questions
+Which films by Paul Thomas Anderson and Wes Anderson are the highest-rated and highest-grossing?
 
-Motivation
-I love films by Paul Thomas Anderson and enjoy a good portion of the work of Wes Anderson. I’m curious to see how they measure up against each other as they both released their first features in the same year (1996) and are continuing to release films.  I’m also wondering how my favorites of theirs rank up compared to their other films.
+Are there trends in cast members that correlate with a film’s critical or commercial success?
 
-Data Question
-Which of their films are the highest rated and the highest grossing? Within that, are there any trends I will notice between cast members that lead to their films being successful? 
+How do the directors’ use of recurring actors influence their filmographies?
 
-Minimum Viable Product (MVP)
-The MVP will be a presentation of my work in Python which will combine API calling and potentially some web-scraping as well. After cleaning the data, I will then create the presentation using a combination of PowerBI and PowerPoint.
+ Minimum Viable Product (MVP)
+The MVP will be a Python-based presentation combining:
+Data acquisition via API calls (e.g., TMDb, IMDb) and potential web scraping.
 
-Schedule (through <April 25>)
-1.	Get the Data (April 7)
-2.	Clean & Explore the Data (April 14)
-3.	Create Presentation of your Analysis (April 18)
--	Should be a presentation, but could include a Jupyter Notebook or dashboard in Excel, Tableau, or PowerBI
-4.	Internal demos (April 18)
-5.	Demo Day!! (April 25)
+Data cleaning to ensure consistency across sources.
 
-Data Sources
-•	TMDb (The Movie Database) API https://www.themoviedb.org/
-•	IMDb (Internation Movie Database) (for imdb score) https://github.com/cinemagoer/cinemagoer 
-•	Rotten Tomatoes (for each of their films getting the critic, audience scores and box office) 
-    https://www.rottentomatoes.com/celebrity/paul_thomas_anderson
-•	https://www.rottentomatoes.com/celebrity/wes_anderson
+Visualization using PowerBI and PowerPoint to showcase findings in an engaging format.
 
-Known Issues and Challenges
-•	Combining the data from 3 separate sources could cause struggles when trying to merge the dataframes into one 
-•	Figuring out whether api-calling or web-scraping will be more appropriate when acquiring my data
-•	Figuring out how to make my dashboard presentation ready
+Optional deliverables may include a Jupyter Notebook, Excel dashboard, or Tableau visualizations.
+ Project Timeline
+Milestone
+
+Date
+
+Data Collection
+
+April 7
+
+Data Cleaning & Exploration
+
+April 14
+
+Presentation Development
+
+April 18
+
+Internal Demos
+
+April 18
+
+Demo Day
+
+April 25
+
+ Data Sources
+TMDb API: Film details and metadata.
+
+IMDb: IMDb ratings.
+
+Rotten Tomatoes: Critic and audience scores, box office data.
+Paul Thomas Anderson
+
+Wes Anderson
+
+ Challenges
+Data Integration: Merging data from multiple sources (TMDb, IMDb, Rotten Tomatoes) into a unified dataset.
+
+Data Acquisition: Deciding between API calls and web scraping for efficient and reliable data collection.
+
+Presentation Design: Creating a polished, professional dashboard ready for demo day.
+
+ Tools & Technologies
+Python: For data collection, cleaning, and analysis.
+
+APIs: TMDb, IMDb (via Cinemagoer).
+
+Visualization: PowerBI, PowerPoint, (potentially Tableau or Excel).
+
+Web Scraping: If APIs are insufficient (e.g., for Rotten Tomatoes).
+
