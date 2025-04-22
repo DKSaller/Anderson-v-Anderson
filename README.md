@@ -34,9 +34,9 @@ TMDb API: Film details and metadata.
 IMDb: IMDb ratings.
 
 Rotten Tomatoes: Critic and audience scores, box office data.
-Paul Thomas Anderson
+Paul Thomas Anderson https://www.rottentomatoes.com/celebrity/paul_thomas_anderson
 
-Wes Anderson
+Wes Anderson https://www.rottentomatoes.com/celebrity/paul_thomas_anderson 
 
  ## Challenges
 Data Integration: Merging data from multiple sources (TMDb, IMDb, Rotten Tomatoes) into a unified dataset.
