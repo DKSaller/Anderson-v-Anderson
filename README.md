@@ -36,7 +36,7 @@ IMDb: IMDb ratings.
 Rotten Tomatoes: Critic and audience scores, box office data.
 Paul Thomas Anderson https://www.rottentomatoes.com/celebrity/paul_thomas_anderson
 
-Wes Anderson https://www.rottentomatoes.com/celebrity/paul_thomas_anderson 
+Wes Anderson https://www.rottentomatoes.com/celebrity/wes_anderson
 
  ## Challenges
 Data Integration: Merging data from multiple sources (TMDb, IMDb, Rotten Tomatoes) into a unified dataset.
